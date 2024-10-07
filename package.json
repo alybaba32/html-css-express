@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/g-delmo/emoji.git"
+    "url": "git+https://github.com/alybaba32/emoji.git"
   },
   "author": "alybaba32",
   "license": "ISC",
 
-  "homepage": "https://github.com/g-delmo/emoji#readme",
+  "homepage": "https://github.com/alybaba32/emoji#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
