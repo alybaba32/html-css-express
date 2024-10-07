@@ -1,7 +1,7 @@
 {
-  "name": "html-css-express",
+  "name": "Emoji",
   "version": "1.0.0",
-  "description": "A simple template for websites made in HTML and CSS, with an Express.js back-end serving a public folder.",
+  "description": "This app adds an emoji for every word in a tweet.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js", 
@@ -9,14 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/g-delmo/html-css-express.git"
+    "url": "git+https://github.com/g-delmo/emoji.git"
   },
-  "author": "g-delmo",
+  "author": "alybaba32",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/g-delmo/html-css-express/issues"
-  },
-  "homepage": "https://github.com/g-delmo/html-css-express#readme",
+
+  "homepage": "https://github.com/g-delmo/emoji#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
